@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chris a.k.a @chrisandrew-dev.
+- 👀 I’m interested in Junior Web Developer employment opportunities.
+- 🌱 I’m currently putting together my first portfolio of web projects to support my goal of making an exciting career change.
+- 💞️ I’m looking to collaborate on a project building a modern web app.
+- 📫 You can reach me by email at chrisandrew_dev@protonmail.com.
