@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris a.k.a @chrisandrew-dev.
-- 👀 I’m interested in Junior Web Developer employment opportunities.
-- 🌱 I’m currently putting together my first portfolio of web projects to support my goal of making an exciting career change.
-- 💞️ I’m looking to collaborate on a project building a modern web app.
-- 📫 You can reach me by email at chrisandrew_dev@protonmail.com.
+- 👀 I’m a Web Developer working for a creative Digital Agency in Wollongong, Australia.
+- 🌱 I’m currently employed, but feel free to contact me with details about your mission and your vibe.
+- 💞️ I’m always looking to collaborate on projects that contribute to a more ethical, accessible and user-friendly web.
+- 📫 You can reach me by email at chrisandrew_dev@proton.me.
