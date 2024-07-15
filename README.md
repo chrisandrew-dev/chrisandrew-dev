@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Chris a.k.a @chrisandrew-dev.
-- 👀 I’m a Web Developer working for a creative Digital Agency in Wollongong, Australia.
-- 🌱 I’m currently employed, but feel free to contact me with details about your mission and your vibe.
-- 💞️ I’m always looking to collaborate on projects that contribute to a more ethical, accessible and user-friendly web.
-- 📫 You can reach me by email at chrisandrew_dev@proton.me.
+- 👋 Hi, I’m Chris.
+- 👀 I’m a full-stack Javascript Engineer based in Wollongong, Australias.
+- 🌱 I'm currently employed as a full-time Web Developer at [ViVO Digital](https://vivo.digital).
+- 💞️ I’m open collaborate on projects that contribute to a more ethical, accessible and user-friendly web.
+- 📫 You can reach me by email at [chrisandrew_dev@proton.me](mailto:chrisandrew_dev@proton.me).
