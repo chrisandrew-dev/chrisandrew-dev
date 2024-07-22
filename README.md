@@ -1,4 +1,5 @@
 - 👀 Full-stack Javascript Engineer based in Wollongong, Australias.
-- 🌱 Full-time Web Developer at [ViVO Digital](https://vivo.digital).
+- 🌱 Full-time Web Developer at [ViVO Digital](https://vivo.digital). Check out some of my work over there.
+- 🤷‍♂️ You'll find any of our public repos on BitBucket.
 - 💞️ Open to collaborating on projects that contribute to a more ethical, accessible and user-friendly web.
 - 📫 Reach me at [chrisandrew_dev@proton.me](mailto:chrisandrew_dev@proton.me).
